@@ -1,4 +1,4 @@
-# System Programming 2, Exercise 1, SqareMat
+# System Programming 2, Exercise 2, SqareMat
 
 ## Email
 `sharon4homework@gmail.com`
